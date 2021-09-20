@@ -1,5 +1,21 @@
-p {
+p,
+.section3 {
     background-color: pink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
+.section2 {
+    font-size: 36px; 
+    color: aqua;
+}
+
+.section3 {
+    font-size: 24px
+}
+
+.section4 {
+    font-size: 24px; 
+    background-color: lightgreen;
+    font-weight: bold;
+}
+    
