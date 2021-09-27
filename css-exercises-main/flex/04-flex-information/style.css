@@ -25,6 +25,8 @@ img {
 
 .block {
   max-width: 200px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 /* do not edit this footer */
