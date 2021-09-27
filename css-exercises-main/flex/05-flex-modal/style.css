@@ -53,6 +53,17 @@ button {
   border-radius: 8px;
 }
 
+.group {
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 button.continue {
   background: royalblue;
   border: 1px solid royalblue;
