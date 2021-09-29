@@ -33,3 +33,10 @@ body {
   font-size: 32px;
   font-weight: 900;
 }
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: inherit;
+}
