@@ -44,6 +44,7 @@ body {
 .sidebar {
   font-size: 24px;
   padding: 16px;
+  flex-shrink: 0;
 }
 
 ul {
@@ -51,4 +52,29 @@ ul {
   margin: 0;
   list-style: none;
 
+}
+
+li {
+  padding: 16px;
+}
+
+.card {
+  padding: 16px;
+  margin: 16px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 32px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  display: flex;
+  flex: 1;
 }
